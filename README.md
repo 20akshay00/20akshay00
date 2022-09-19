@@ -1,10 +1,8 @@
 ### Hi there 👋 I am a fifth year student pursuing a BS-MS degree in Physics at IISER Mohali. 
 
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=20akshay00&show_icons=true&theme=dracula&count_private=true)
-
 I enjoy implementing computational models of physical phenomena and creating interactive simulations. Currently I'm working on my MS thesis with [Dr. Sanjeev Kumar](https://www.iisermohali.ac.in/awards-recognitions/dps/dr-sanjeev-kumar) and [Prof. Tilman Pfau's group](https://www.pi5.uni-stuttgart.de/institute/team/) broadly involving quantum simulations using ultracold atoms trapped in optical lattices. 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20akshay00&layout=compact&theme=dracula&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20akshay00&layout=compact&theme=dracula&hide=jupyter%20notebook&hide=javascript)
 
 <!--
 **20akshay00/20akshay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
