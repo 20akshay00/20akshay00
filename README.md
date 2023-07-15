@@ -1,4 +1,4 @@
-### Hi there 👋 I am a first year PhD student at [QuantumGroup@UGent](quantumghent.github.io/). 
+### Hi there 👋 I am a first year PhD student at [QuantumGroup@UGent](https://quantumghent.github.io/). 
 
 I enjoy implementing computational models of physical phenomena and creating interactive simulations. 
 <!--
