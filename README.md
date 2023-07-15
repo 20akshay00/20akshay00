@@ -1,7 +1,6 @@
-### Hi there 👋 I am a fifth year student pursuing a BS-MS degree in Physics at IISER Mohali. 
+### Hi there 👋 I am a first year PhD student at [QuantumGroup@UGent](quantumghent.github.io/). 
 
-I enjoy implementing computational models of physical phenomena and creating interactive simulations. Currently I'm working on my MS thesis with [Dr. Sanjeev Kumar](https://www.iisermohali.ac.in/awards-recognitions/dps/dr-sanjeev-kumar) and [Prof. Tilman Pfau's group](https://www.pi5.uni-stuttgart.de/institute/team/) broadly involving quantum simulations using ultracold atoms trapped in optical lattices. 
-
+I enjoy implementing computational models of physical phenomena and creating interactive simulations. 
 <!--
 **20akshay00/20akshay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
