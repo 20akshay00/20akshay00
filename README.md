@@ -1,8 +1,9 @@
 ### Hi there 👋 I am a first year PhD student at [QuantumGroup@UGent](https://quantumghent.github.io/). 
 
-I enjoy implementing computational models of physical phenomena and creating interactive simulations. 
 <!--
 **20akshay00/20akshay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I enjoy implementing computational models of physical phenomena and creating interactive simulations. 
 
 Here are some ideas to get you started:
 
