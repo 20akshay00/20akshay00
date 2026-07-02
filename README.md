@@ -17,7 +17,7 @@ Currently, my research focuses on the development of numerical frameworks for st
 ### Featured Research Software
 *   **[TentMPS.jl](https://github.com/20akshay00/TentMPS.jl)** – Numerical implementation of the Finite-Element Matrix Product States formalism with custom DMRG routines to handle non-orthogonal bases.
 *   **[LiebLinigerBetheAnsatz.jl](https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl)** – Numerical implementation of the Bethe Ansatz solution for the Lieb-Liniger model.
-*   **[HermiteUtis.jl](https://github.com/20akshay00/HermiteUtils.jl** - Simple collection of utilities to work with physicist's Hermite functions and polynomials.
+*   **[HermiteUtils.jl](https://github.com/20akshay00/HermiteUtils.jl)** - Simple collection of utilities to work with physicist's Hermite functions and polynomials.
 
 ### Other Projects
 *   **[GDWiiInput](https://github.com/20akshay00/godot-wii-input/)** – A GDExtension to interface Wii hardware with the Godot Engine.
