@@ -14,16 +14,7 @@ Currently, my research focuses on the development of numerical frameworks for st
 *   **[GDWiiInput](https://github.com/20akshay00/godot-wii-input/)** – A GDExtension to interface Wii hardware with the Godot Engine.
 *   **[ThePhysicsHub](https://github.com/OpenPsiMu/ThePhysicsHub)** – Open-source repository for interactive physics simulations made with p5.js.
 *   **[Tetra](https://github.com/DhruvaSambrani/turing-hunt-engine)** – Primitive game engine with 2D ASCII-based rendering written in Python.
-
-<details>
-<summary><b> View all 15+ Game Development Repositories</b></summary>
-All my games can be played in my [itch.io profile](https://20akshay00.itch.io/). They are all open sourced!
-  
-*   **[RadarDefender](https://github.com/20akshay00/RadarDefender)** – Arcade-style physics prototype.
-*   **[Link to your full GitHub Search for Game Repos](https://github.com/20akshay00?tab=repositories&q=game&type=&language=&sort=)**
-*   *And many more prototypes found on my [Itch.io](https://20akshay00.itch.io/)...*
-</details>
-
+*   **[Various game jam entries](https://github.com/stars/20akshay00/lists/mygames) - Collaborative games made with Godot within 48-72 hour game jams. All these games can be played in my [itch.io profile](https://20akshay00.itch.io/).
 ---
 
 ### Skills
