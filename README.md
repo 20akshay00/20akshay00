@@ -1,37 +1,55 @@
-### Hi there 👋 I'm Akshay!
+# Hi, I'm Akshay Shankar <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="30px">
 
-I'm a PhD Researcher at [Ghent University](https://quantumghent.github.io/) specializing in **Tensor Network simulations** for 1D quantum gases in the continuum. My work focuses on bridging many-body theory with high-performance numerical implementations.
-
----
-
-### Research Software
-*High-performance tools for quantum many-body physics.*
-
-* **[TentMPS.jl](https://github.com/20akshay00/TentMPS.jl)**: A Julia implementation of the Finite-Element Matrix Product State (FE-MPS) framework. Features a custom DMRG engine designed for non-orthogonal bases.
-* **[LiebLinigerBetheAnsatz.jl](https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl)**: Numerical implementation of the Bethe Ansatz solution for the 1D Lieb-Liniger model.
-* **[PhysicsJavisAnim](https://20akshay00.github.io/PhysicsJavisAnim/)**: A collection of physics-based visualizations created using the Javis.jl library.
-
-### Systems & General Software
-*Engineering projects focused on performance, interactivity, and tooling.*
-
-* **[GDWiiInput](https://github.com/20akshay00/godot-wii-input/)**: A GDExtension (C++) for the **Godot Engine** to interface with Wii controllers.
-* **[ThePhysicsHub](https://github.com/OpenPsiMu/ThePhysicsHub)**: A collaborative open-source repository of interactive physics simulations (p5.js).
-* **[Schedule Selector](https://20akshay00.github.io/schedule-selector/)**: A tool built for IISER Mohali students to automate and filter course schedules.
-
-###  Game Development & Collaborative Projects
-*Rapid prototyping and team-based software development.*
-
-* **[Itch.io Portfolio](https://20akshay00.itch.io/)**: A collection of interactive prototypes and jam entries.
-* **[Tetra](https://github.com/DhruvaSambrani/turing-hunt-engine) / [Pentra](https://github.com/DhruvaSambrani/pentra)**: Evolution of a 2D game engine (Python/Pygame) with custom lighting and shadow rendering.
-* **Team Leadership**: Experienced in leading small technical teams (3+ members) to conceptualize and ship functional software prototypes under strict 48-96 hour deadlines.
+**PhD Researcher @ UGent** | **Computational Physicist** | **Software Developer**
 
 ---
 
-### Skills
-* **Languages**: Julia, Python, C++, GDScript, Fortran90, JavaScript.
-* **Methods**: Tensor Networks (DMRG, VUMPS, TDVP), QMC (SSE), Finite-Element Methods, GPE.
-* **Infrastructure**: Git, Linux (Bash), HPC (Slurm), OpenMP, MPI.
+### 🛠️ Technical Stack
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Physics** | `Tensor Networks (DMRG, VUMPS)` `QMC` `Finite-Element Methods` `AMO Physics` |
+| **Engineering** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `HPC (Slurm/MPI)` |
+| **Creative** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
 
 ---
 
-[Personal Website](https://20akshay00.github.io/) | [LinkedIn](YourLink) | [Publications](research.html)
+### 🔬 Featured Research Software
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/20akshay00/TentMPS.jl">TentMPS.jl</a></h4>
+      <p>Finite-Element Matrix Product States in Julia. Features a custom DMRG engine for non-orthogonal bases.</p>
+      <code>Julia</code> <code>Tensor Networks</code> <code>Open Source</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl">Lieb-Liniger Bethe Ansatz</a></h4>
+      <p>High-precision numerical implementation of the Bethe Ansatz for 1D bosonic gases.</p>
+      <code>Julia</code> <code>Numerical Physics</code>
+    </td>
+  </tr>
+</table>
+
+### 🎮 Systems & Tooling
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/20akshay00/godot-wii-input/">GDWiiInput</a></h4>
+      <p>Low-level <b>C++ (GDExtension)</b> for Godot to interface with Wii hardware. Demonstrates systems engineering.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/OpenPsiMu/ThePhysicsHub">ThePhysicsHub</a></h4>
+      <p>A collaborative open-source ecosystem of interactive physics simulations built in <b>p5.js</b>.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=20akshay00&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20akshay00&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+[🌐 Personal Website](https://20akshay00.github.io/) • [💼 LinkedIn](YourLink) • [🎮 Itch.io](https://20akshay00.itch.io/)
