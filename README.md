@@ -1,6 +1,6 @@
 # Akshay Shankar
 
-**PhD Researcher @ Ghent University** | Computational physicist | Ultracold matter
+**PhD Student @ Ghent University** | Computational physicist | Ultracold matter
 
 Currently, my research focuses on the development of numerical frameworks for studying **1D quantum gases in the continuum**. When I'm not performing research, I dabble in game development using **Godot**.
 
