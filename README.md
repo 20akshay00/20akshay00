@@ -1,55 +1,36 @@
-# Hi, I'm Akshay Shankar <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="30px">
+# Akshay Shankar
 
-**PhD Researcher @ UGent** | **Computational Physicist** | **Ultracold Matter**
+**PhD Researcher @ Ghent University** | Computational physicist | Ultracold matter
+
+Currently, my research focuses on the development of numerical frameworks for studying **1D quantum gases in the continuum**. When I'm not performing research, I dabble in game development using **Godot**.
+
+---
+
+### Featured Research Software
+*   **[TentMPS.jl](https://github.com/20akshay00/TentMPS.jl)** – Numerical implementation of the Finite-Element Matrix Product States formalism with custom DMRG routines to handle non-orthogonal bases.
+*   **[LiebLinigerBetheAnsatz.jl](https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl)** – Numerical implementation of the Bethe Ansatz solution for the Lieb-Liniger model.
+
+### Other Projects
+*   **[GDWiiInput](https://github.com/20akshay00/godot-wii-input/)** – A GDExtension to interface Wii hardware with the Godot Engine.
+*   **[ThePhysicsHub](https://github.com/OpenPsiMu/ThePhysicsHub)** – Open-source repository for interactive physics simulations made with p5.js.
+*   **[Tetra](https://github.com/DhruvaSambrani/turing-hunt-engine)** – Primitive game engine with 2D ASCII-based rendering written in Python.
+
+<details>
+<summary><b> View all 15+ Game Development Repositories</b></summary>
+All my games can be played in my [itch.io profile](https://20akshay00.itch.io/). They are all open sourced!
+  
+*   **[RadarDefender](https://github.com/20akshay00/RadarDefender)** – Arcade-style physics prototype.
+*   **[Link to your full GitHub Search for Game Repos](https://github.com/20akshay00?tab=repositories&q=game&type=&language=&sort=)**
+*   *And many more prototypes found on my [Itch.io](https://20akshay00.itch.io/)...*
+</details>
 
 ---
 
 ### Skills
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Physics** | `Tensor Networks (DMRG, VUMPS)` `QMC` `Finite-Element Methods` `AMO Physics` |
-| **Engineering** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Creative** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+*   **Physics:** Tensor Networks (DMRG, VUMPS, TDVP), Quantum Monte Carlo (SSE)
+*   **Languages:** Julia, Python, C++, GDScript, JavaScript.
+*   **Tools:** Git, Linux, Godot, Blender, Inkscape.
 
 ---
 
-### Research Software
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/20akshay00/TentMPS.jl">TentMPS.jl</a></h4>
-      <p>Finite-Element Matrix Product States in Julia. Features a custom DMRG implementation for non-orthogonal bases.</p>
-      <code>Julia</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl">Lieb-Liniger Bethe Ansatz</a></h4>
-      <p>High-precision numerical implementation of the Bethe Ansatz for 1D bosonic gases.</p>
-      <code>Julia</code>
-    </td>
-  </tr>
-</table>
-
-### General Software
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/20akshay00/godot-wii-input/">GDWiiInput</a></h4>
-      <p>Low-level <b>C++ (GDExtension)</b> for Godot to interface with Wii hardware. </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpenPsiMu/ThePhysicsHub">ThePhysicsHub</a></h4>
-      <p>A collaborative open-source ecosystem of interactive physics simulations built with <b>p5.js</b>.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=20akshay00&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20akshay00&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-[🌐 Personal Website](https://20akshay00.github.io/) • [💼 LinkedIn](YourLink) • [🎮 Itch.io](https://20akshay00.itch.io/)
+[Personal Website](https://20akshay00.github.io/) • [LinkedIn](https://www.linkedin.com/in/20akshay00) • [Publications](https://scholar.google.com/citations?user=8XmbbYgAAAAJ)
