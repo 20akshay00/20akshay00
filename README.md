@@ -10,9 +10,9 @@
 I'm Akshay, a PhD student at **Ghent University** developing tensor networks methods for studying **one-dimensional quantum gases in the continuum**.
 When I'm not doing physics, I also enjoy making simple arcade games using **Godot**.
 
-<p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=julia,py,cpp,js,godot,git,linux,blender&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=julia%2Cpy%2Ccpp%2Cjs%2Cgodot%2Cgit%2Clinux%2Cblender&theme=dark">
     <img src="https://skillicons.dev/icons?i=julia,py,cpp,js,godot,git,linux,blender&theme=light" height="36" alt="Julia, Python, C++, JavaScript, Godot, Git, Linux, Blender">
   </picture>
 </p>
