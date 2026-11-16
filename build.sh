@@ -35,7 +35,7 @@ cp $SITE/gamedev/covers/*.png assets/games/
 
 # other projects: screenshots cut to one shape
 for p in godotwiiinput.png physicshub.png tetra.webp; do
-    magick "$SITE/projects/$p" -resize 600x338^ -gravity center -extent 600x338 "assets/projects/${p%.*}.png"
+    magick "$SITE/projects/$p" -resize 600x338^ -gravity center -extent 600x338 -define png:exclude-chunks=date,time "assets/projects/${p%.*}.png"
 done
 
 echo "built: $(cd assets && find . -type f | sort | tr '\n' ' ')"

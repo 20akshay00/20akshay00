@@ -17,7 +17,7 @@ ITCH = Path(__file__).resolve().parents[2] / "itch-setup"
 W, H = 1280, 400
 CROP = (0, 300)                 # where the header sits on the 1280px background
 FRAMES, MS = 240, 50            # 12 s at 20 fps: one loop of the signals
-FLYER_AT = (935, 40)            # the flyer's resting top left, over the sign's corner
+FLYER_AT = (935, 85)            # the flyer's resting top left, over the sign's corner
 BOB, SWAY = 7, 4                # how far it floats up and down, and side to side, in pixels
 
 
