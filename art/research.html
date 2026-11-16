@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>profile research: a package terminal</title>
+<!-- One research package as a small Julia package-manager window, like the research section of the
+     website (its _templates/terminal.ejs and theme/_projects.scss). The package is picked by the hash:
+     research.html#0, #1, ... build.sh renders each to assets/research-<name>.png at 2x. -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+html, body { margin: 0; background: transparent; }
+.win {
+    box-sizing: border-box; width: 840px; height: 176px; overflow: hidden;
+    background: #1d1428; border: 3px solid #14101c; border-radius: 8px;
+    font: 15px/1.5 "JetBrains Mono", monospace; color: #e6def2;
+}
+.bar {
+    height: 28px; padding-left: 54px; background:
+        radial-gradient(circle at 14px 14px, #e05a7a 4px, transparent 5px),
+        radial-gradient(circle at 27px 14px, #e2b24f 4px, transparent 5px),
+        radial-gradient(circle at 40px 14px, #5fd3a6 4px, transparent 5px),
+        #2a2036;
+    font-size: 12px; line-height: 28px; color: #b9aecb;
+}
+.body { display: flex; gap: 22px; align-items: flex-start; padding: 16px 20px; }
+.text { flex: 1; min-width: 0; }
+.prompt { color: #6fa8ff; font-weight: 600; }
+.name { color: #c9a6ff; font-weight: 600; }
+.comment { color: #8f84a3; margin-top: 4px; }
+.cursor { display: inline-block; width: .6em; height: 1.05em; vertical-align: text-bottom; background: #e6def2; }
+.plot { flex: none; width: 200px; padding: 4px; background: #251b33; border: 1px solid #3d3150; border-radius: 6px; }
+.plot img { display: block; width: 100%; }
+</style>
+</head>
+<body>
+<div class="win">
+  <div class="bar" id="title"></div>
+  <div class="body">
+    <div class="text">
+      <div><span class="prompt">(@v1.11) pkg&gt;</span> add <span class="name" id="name"></span> <span class="cursor"></span></div>
+      <div class="comment" id="desc"></div>
+    </div>
+    <div class="plot"><img id="plot" alt=""></div>
+  </div>
+</div>
+<script>
+const SITE = "../../20akshay00.github.io/images/projects/";
+const PKGS = [
+    ["TentMPS", "tentmps.svg",
+     "Finite-element matrix product states for 1D continuum models of interacting bosons, with DMRG routines for non-orthogonal bases."],
+    ["LiebLinigerBetheAnsatz", "lieblinigerbetheansatz.svg",
+     "The Bethe ansatz solution of the Lieb-Liniger model, solved numerically: the exact benchmark for a 1D Bose gas."],
+    ["HermiteUtils", "hermiteutils.svg",
+     "Small utilities for the physicist's Hermite polynomials and functions."],
+];
+const [name, plot, desc] = PKGS[+location.hash.slice(1) || 0];
+document.getElementById("title").textContent = `julia — ~/research/${name}.jl`;
+document.getElementById("name").textContent = name;
+document.getElementById("desc").textContent = "# " + desc;
+document.getElementById("plot").src = SITE + plot;
+</script>
+</body>
+</html>
