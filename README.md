@@ -19,7 +19,8 @@ When I'm not doing physics, I also enjoy making simple arcade games using **Godo
 
 ## `~/research`
 
-Scientific software developed 
+Scientific software developed as part of my research activities. 
+
 <a href="https://github.com/20akshay00/TentMPS.jl"><img src="assets/research-tentmps.png" width="100%" alt="pkg> add TentMPS: finite-element matrix product states for 1D continuum models of interacting bosons, with DMRG routines for non-orthogonal bases."></a>
 <a href="https://github.com/20akshay00/LiebLinigerBetheAnsatz.jl"><img src="assets/research-lieblinigerbetheansatz.png" width="100%" alt="pkg> add LiebLinigerBetheAnsatz: the Bethe ansatz solution of the Lieb-Liniger model, solved numerically."></a>
 <a href="https://github.com/20akshay00/HermiteUtils.jl"><img src="assets/research-hermiteutils.png" width="100%" alt="pkg> add HermiteUtils: small utilities for the physicist's Hermite polynomials and functions."></a>
